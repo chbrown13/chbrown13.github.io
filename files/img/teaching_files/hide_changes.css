@@ -1,0 +1,30 @@
+@charset 'UTF-8';
+
+.force-read-before,
+.force-read-after,
+.force-link-before,
+.force-link-after,
+.screen-reader-only,
+#container-heading-before,
+#container-heading-after,
+#container-skippers,
+#container-shortcuts-before,
+#container-shortcuts-after {
+    position: absolute !important;
+    display: inline-block !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    border: none !important;
+    text-indent: -9999px !important;
+}
+
+[unselectable="on"] {
+    -moz-user-select: none !important;
+    -webkit-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}

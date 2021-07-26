@@ -1,0 +1,15 @@
+For each recommendation observed in our study, we collected:
+
+- the type of peer interaction (Peer Observation or Peer Recommendation),
+- the approximate time in the video the recommendation took place,
+- which participants are the driver and navigator,
+- the study task,
+- the method of the driver and navigator (if possible),
+- the name and type of the recommended feature,
+- a transcript of the dialogue concerning the new tool,
+- the reaction of the recommendee,
+- instances in the study where the tool was re-used,
+- instances where the tool was ignored for a less efficient method,
+- the effectiveness, politeness, persuasiveness, and receptiveness scores, 
+- whether the recommendations was under time pressure, and
+- if the recommendation was discussed during the interview and time of discussion in the video.
