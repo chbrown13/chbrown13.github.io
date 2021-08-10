@@ -132,7 +132,8 @@ body {
  a:link {color: #800000;}
 
 /* visited link */
-a:visited {color: #999999;}
+a:visited {color: #800000;
+}
 
 /* mouse over link */
 a:hover {color: #e77724;}
