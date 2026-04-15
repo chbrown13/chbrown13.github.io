@@ -11,7 +11,7 @@ Over the past decade, bots have become embedded in modern software development. 
 [Presentation Slides](https://docs.google.com/presentation/d/1tiafKfyYJym4mrpDa6PCEbQ8IHi2CpIaVCOL3_xCKrg/edit?usp=sharing)
 
 ### The Fall Off of Bots in Software Engineering 🤖
-[GitHub repository for streamlit visualization](https://github.com/chbrown13/boatse)
+[GitHub repository for streamlit visualization](https://github.com/chbrown13/boatse) [coming soon]
 
 ### 4 Your Eyez Only 👀
 [Practice keynote recording](https://drive.google.com/file/d/1UemrJhxP0RkbKSEjINB6ff9pHTGc3s-W/view?usp=drive_link)
